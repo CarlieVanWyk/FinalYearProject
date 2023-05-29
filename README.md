@@ -1,2 +1,2 @@
 # FinalYearProjects
-My final year in BIS Multimedia and the project we implemented. 
+My final year in BIS Multimedia and the projects we implemented. 
