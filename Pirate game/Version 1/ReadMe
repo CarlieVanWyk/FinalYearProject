@@ -1,1 +1,16 @@
+Please note that this is still a very early working version of the game. 
+Everything was coded using Unreal Engine 5. 
+All characters were created using Blender. 
+Please use on a windows machine, and turn on power mode. 
+When opening it, windows will think it is a virus, it is not, just click on "more info" and then click on "run anyway".
+After extracting the folder and opening it, click on the FinalGame.exe to play the game.
 
+Note: You might have to install Unreal engine / Epic games in order to play the game. 
+
+controlls = keyboard
+	right click = Parry
+	Left click = Light attack
+	Left click & shift = Heavy attack
+	Tab = Dodge
+	WASD = Move
+	Space Bar = Jump
